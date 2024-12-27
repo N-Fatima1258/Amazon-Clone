@@ -1,0 +1,27 @@
+.navbar{
+    height:180px;
+}
+
+
+.nav-search{
+    position:absolute;
+    top:120px;
+    width:30rem;
+}
+
+.panel-ops p{
+    margin:0.9375rem;
+     /* font-size: 0.85rem;  */
+  }
+  
+  .hero-section{
+   width: auto;
+    height:18.75rem;
+    background-size: cover;
+  }
+
+  .box{
+    height: auto;
+   width:48%
+   
+  }
